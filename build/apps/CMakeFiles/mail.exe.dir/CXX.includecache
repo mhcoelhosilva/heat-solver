@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/cg.hpp
+matrix.hpp
+../lib/matrix.hpp
+
+../lib/heat.hpp
+cg.hpp
+../lib/cg.hpp
+math.h
+-
+sstream
+-
+iostream
+-
+string
+-
+
+../lib/matrix.hpp
+array
+-
+map
+-
+vector.hpp
+../lib/vector.hpp
+
+../lib/vector.hpp
+exception
+-
+memory
+-
+iterator
+-
+type_traits
+-
+
+C:/Users/Matheus/Desktop/Aerospace Engineering/CSE minor/Object-Oriented Programming with C++/AnotherTry/apps/mail.cpp
+iostream
+-
+heat.hpp
+C:/Users/Matheus/Desktop/Aerospace Engineering/CSE minor/Object-Oriented Programming with C++/AnotherTry/apps/heat.hpp
+

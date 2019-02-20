@@ -1,0 +1,2 @@
+C:\PROGRA~2\CodeBlocks\MinGW\bin\ar.exe qc liblibfinal.a  
+C:\PROGRA~2\CodeBlocks\MinGW\bin\ranlib.exe liblibfinal.a
